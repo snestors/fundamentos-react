@@ -1,0 +1,17 @@
+.text-center {
+    text-align: center;
+}
+
+
+.img-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Opcional, ajusta la altura del contenedor según tus necesidades */
+  }
+
+.imagen-circular {
+    border-radius: 50%;
+    width: 200px; /* Ajusta el tamaño de la imagen según tus necesidades */
+    height: 200px; /* Ajusta el tamaño de la imagen según tus necesidades */
+  }
